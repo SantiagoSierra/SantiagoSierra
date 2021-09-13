@@ -1,4 +1,4 @@
-### Hi 👋, I'm Juan
+### Hi 👋, I'm Santiago Sierra
 
 ```javascript
 const thai = {
