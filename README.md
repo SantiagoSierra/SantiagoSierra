@@ -13,8 +13,9 @@ const thai = {
 <a  href="https://github-readme-stats.vercel.app/api?username=SantiagoSierra&count_private=true&show_icons=true&theme=radical"><img alt="SantiagoSierra Activity Graph" src="https://github-readme-stats.vercel.app/api?username=SantiagoSierra&count_private=true&show_icons=true&theme=radical" /></a>
 </p>
 
+
 <p style="margin:5px;">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSierra&theme=radical&langs_count=6&layout=compact"><img alt="SantiagoSierra Activity Graph"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSierra&theme=radical&langs_count=6&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSierra&theme=radical&langs_count=6&layout=compact"><img alt="Santiago Sierra Activity Graph"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSierra&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
  
 <p style="margin:5px;">
